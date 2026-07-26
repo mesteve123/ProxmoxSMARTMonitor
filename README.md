@@ -53,3 +53,15 @@ Once running, open your browser and go to:
 ```
 http://YOUR_SERVER_IP:5000
 ```
+
+# 🎨 Dashboard Integration
+
+A custom icon/logo is included for use with self-hosted dashboard applications such as **Homarr**, **Homepage**, **Dashy**, and other homelab dashboards.
+
+You can use the following icon to easily identify **Proxmox SMART Monitor** among your Docker services:
+
+![Proxmox SMART Monitor Logo](https://raw.githubusercontent.com/mesteve123/ProxmoxSMARTMonitor/refs/heads/main/ProxmoxSMARTMonitor.ico)
+
+---
+
+Thanks for using **Proxmox SMART Monitor**! 🚀
