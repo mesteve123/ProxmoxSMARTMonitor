@@ -61,7 +61,7 @@ A custom icon/logo is included for use with self-hosted dashboard applications s
 You can use the following icon to easily identify **Proxmox SMART Monitor** among your Docker services:
 
 ```
-https://raw.githubusercontent.com/mesteve123/ProxmoxSMARTMonitor/refs/heads/main/ProxmoxSMARTMonitor.ico
+[https://raw.githubusercontent.com/mesteve123/ProxmoxSMARTMonitor/refs/heads/main/ProxmoxSMARTMonitor.ico](https://raw.githubusercontent.com/mesteve123/ProxmoxSMARTMonitor/refs/heads/main/ProxmoxSMARTMonitor.png)
 ```
 
 
